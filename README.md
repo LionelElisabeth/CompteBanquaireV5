@@ -9,11 +9,11 @@ Lionel ELISABETH
 ## Demo
 When entering in the application we arrive in the login page.
 
-![demo1](/images/demo1.jpg =100x)
+<img src="/images/demo2.jpg" alt="drawing" width="200"/>
 
 In this activity we have to select the correct id of the user owner of the app.
 
-![demo2](/images/demo2.jpg =100x)
+![demo2](/images/demo2.jpg =100x200)
 
  We can do it either by selecting the user in the spinner or by providing directly the id.
 
