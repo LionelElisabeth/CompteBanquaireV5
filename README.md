@@ -9,27 +9,30 @@ Lionel ELISABETH
 ## Demo
 When entering in the application we arrive in the login page.
 
-<img src="/images/demo2.jpg" alt="drawing" width="200"/>
+<img src="/images/demo1.jpg" alt="drawing" width="200"/>
 
 In this activity we have to select the correct id of the user owner of the app.
 
-![demo2](/images/demo2.jpg =100x200)
+
+<img src="/images/demo2.jpg" alt="drawing" width="200"/>
 
  We can do it either by selecting the user in the spinner or by providing directly the id.
 
 Once the login is validated we go into the next activity.
 
-![demo3](/images/demo3.jpg =100x)
+
+<img src="/images/demo3jpg" alt="drawing" width="200"/>
 
 This is the main activity of the app. It displays the data of all the bank accounts of the user.
 
 In order to update the accounts, the user will have to press the refresh button.
 
-![demo4](/images/demo4.jpg =100x)
+<img src="/images/demo4.jpg" alt="drawing" width="200"/>
 
 The accounts can be selected with the spinner.
 
-![demo5](/images/demo5.jpg =100x)
+
+<img src="/images/demo5.jpg" alt="drawing" width="200"/>
 
 
 ## Code obfuscation
